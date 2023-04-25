@@ -53,9 +53,9 @@
 		BEDD5FFD29F84E9600A55D1E /* Drawing */ = {
 			isa = PBXGroup;
 			children = (
-				BEDD600C29F84ED600A55D1E /* Overview.swift */,
 				BEDD5FFE29F84E9600A55D1E /* DrawingApp.swift */,
 				BEDD600029F84E9600A55D1E /* ContentView.swift */,
+				BEDD600C29F84ED600A55D1E /* Overview.swift */,
 				BEDD600229F84E9700A55D1E /* Assets.xcassets */,
 				BEDD600429F84E9700A55D1E /* Preview Content */,
 			);
